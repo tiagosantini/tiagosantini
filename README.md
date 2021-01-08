@@ -6,6 +6,8 @@
 - CSS
 - React.js
 - Node.js
+- MongoDB
+- REST API
 
 <!--
 **tiagosantini/tiagosantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
