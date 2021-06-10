@@ -2,13 +2,9 @@
 
 #### :books: Learning:
 
-- HTML
-- CSS
-- React.js
-- Node.js
-- MongoDB
-- REST API
-
+- C#
+- TDD
+- OOP
 <!--
 **tiagosantini/tiagosantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
