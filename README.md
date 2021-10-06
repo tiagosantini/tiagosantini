@@ -1,21 +1,13 @@
+<div align="center">
+  <a href="https://github.com/tiagosantini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosantini&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantini&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+</a></div>
+
 ## :computer: CS Student
+### :books: Currently Learning:
 
-#### :books: Learning:
-
-- C#
-- TDD
-- OOP
-<!--
-**tiagosantini/tiagosantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+- **C#**
+- **.NET Core**
+- **Entity Framework Core**
+- **TDD**
