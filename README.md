@@ -7,7 +7,8 @@
 ## :computer: CS Student
 ### :books: Currently Learning:
 
+- **Angular**
+- **TypeScript**
 - **C#**
-- **.NET Core**
+- **ASP.NET Core MVC**
 - **Entity Framework Core**
-- **TDD**
