@@ -9,6 +9,5 @@
 
 - **Angular**
 - **TypeScript**
-- **C#**
-- **ASP.NET Core MVC**
-- **Entity Framework Core**
+- **.NET Core**
+- **Docker 🐳**
