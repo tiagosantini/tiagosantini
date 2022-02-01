@@ -7,6 +7,7 @@
 ## :computer: CS Student
 ### :books: Currently Learning:
 
+- **React**
 - **Angular**
 - **TypeScript**
 - **.NET Core**
